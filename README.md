@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Brown Wood]!
 
-### 🚀 Flutter Mobile Developer | Firebase Enthusiast | UI/UX Lover
+### 🚀 Flutter Mobile Developer 
 
 ---
 
